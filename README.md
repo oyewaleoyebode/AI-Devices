@@ -23,11 +23,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 # List of Hobby
 1. Hiking
 2. Spectating Motorsport
-3. くろんど池
-4. mounting
-5. Travel
-6. Biking
-7. nijozan
-8. Mt. Wakakusa
-9. 
+3. Yoshinoyama
+4. くろんど池
+5. mounting
+6. Travel
+7. Biking
+8. nijozan
+9. Mt. Wakakusa
 10. 

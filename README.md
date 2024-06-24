@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 8. nijozan
 9. Mt. Wakakusa
 10. Driving
+11. Mt. Mikami

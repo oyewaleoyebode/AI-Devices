@@ -30,4 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 7. Biking
 8. nijozan
 9. Mt. Wakakusa
-10. 
+10. Mt. Mikami

@@ -16,11 +16,12 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9- Microsoft Bing Copilot <br/>
 10- Perplexity<br/>
 11- Chat GPT4
-12- Auto Memo
-13- Chat GPT4</br>
-14- Nest Thermostat</br>
-15- Chat GPT4
-16- Gemini
+12- Chat GPT4
+13- Auto Memo
+14- Chat GPT4</br>
+15- Nest Thermostat</br>
+16- Chat GPT4
+17- Gemini
 
 
 

@@ -22,7 +22,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 15- Nest Thermostat</br>
 16- Chat GPT4
 17- Gemini
-
+18- Apple Inteligence
 
 
 

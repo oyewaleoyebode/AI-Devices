@@ -17,6 +17,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 10- Perplexity<br/>
 11- Chat GPT4
 12- Auto Memo
+13- Chat GPT4</br>
+14- Nest Thermostat</br>
+15- Chat GPT4
+16- Gemini
+
 
 
 
